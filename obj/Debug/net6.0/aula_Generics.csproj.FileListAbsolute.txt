@@ -1,0 +1,15 @@
+C:\temp\projetos\aula_Generics\bin\Debug\net6.0\aula_Generics.exe
+C:\temp\projetos\aula_Generics\bin\Debug\net6.0\aula_Generics.deps.json
+C:\temp\projetos\aula_Generics\bin\Debug\net6.0\aula_Generics.runtimeconfig.json
+C:\temp\projetos\aula_Generics\bin\Debug\net6.0\aula_Generics.dll
+C:\temp\projetos\aula_Generics\bin\Debug\net6.0\aula_Generics.pdb
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.csproj.AssemblyReference.cache
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.AssemblyInfoInputs.cache
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.AssemblyInfo.cs
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.csproj.CoreCompileInputs.cache
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.dll
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\refint\aula_Generics.dll
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.pdb
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\aula_Generics.genruntimeconfig.cache
+C:\temp\projetos\aula_Generics\obj\Debug\net6.0\ref\aula_Generics.dll
